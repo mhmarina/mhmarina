@@ -1,8 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=mhmarina&color=brightgreen" alt="watching_count" />
-- 👋 Hi, I’m Marina
-- 👀 I’m mainly interested in object oriented progamming, frontend development and game development
-- 🌱 I’m currently pursuing a BS in computer science from Arizona State University and doing personal development when I have time
-- 📫 Connect with me on linkedin: https://www.linkedin.com/in/marina-nasralla-a68033251
+- 👋 Hi, I’m Marina <br>
+- 👀 I’m mainly interested in object oriented progamming, frontend development and game development <br>
+- 🌱 I’m currently pursuing a BS in computer science from Arizona State University and doing personal development when I have time <br>
+- 📫 Connect with me on linkedin: https://www.linkedin.com/in/marina-nasralla-a68033251 <br>
 <br>
 <br>
 <br>
